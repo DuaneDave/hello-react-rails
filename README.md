@@ -136,7 +136,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/principlebrothers/hello-rails-react.git
+  git clone https://github.com/DuaneDave/hello-react-rails.git
 ```
 
 ### Install
@@ -183,11 +183,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ernest Anyewe Adonu**
+👤 **Obiebi David**
 
-- GitHub: [@principlebrothers](https://github.com/principlebrothers)
-- Twitter: [@adonu_ernest](https://twitter.com/adonu_ernest)
-- LinkedIn: [Ernest Anyewe Adonu](www.linkedin.com/in/ernest-anyewe-adonu)
+- GitHub: [@githubhandle](https://github.com/DuaneDave)
+- Twitter: [@twitterhandle](https://twitter.com/dave_duane)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-obiebi)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -207,7 +207,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/principlebrothers/hello-rails-react/issues/new).
+Feel free to check the [issues page](https://github.com/DuaneDave/hello-react-rails/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
